@@ -1,4 +1,3 @@
-![alt text](https://github.com/russiaonice/Pricing_Forecasting/blob/Pricing/image.jpg?raw=true)
 
 # Pricing Forecasting
 ## Project overview ##
