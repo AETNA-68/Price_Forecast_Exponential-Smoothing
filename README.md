@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/russiaonice/Pricing_Forecasting/blob/Pricing/PRICING%20FORECAST.jpg))
+([http://url/to/img.png](https://github.com/russiaonice/Pricing_Forecasting/blob/Pricing/PRICING%20FORECAST.jpg))
 
 # Pricing Forecasting
 ## Project overview ##
