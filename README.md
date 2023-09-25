@@ -1,5 +1,5 @@
 ![Alt Text](https://github.com/russiaonice/Pricing_Forecasting/blob/Pricing/Price%20Forecast.png?raw=true)
-# Pricing Forecasting
+# Price Forecast
 ## Project overview ##
 Time Series Analysis uses historical patterns to predict future values by developing mathematical models using Exponential Smoothing.
 
